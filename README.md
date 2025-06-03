@@ -2,12 +2,13 @@
 
 TASK 9- https://codesoumya7.github.io/DATE-24.05.25-ETHNUS-MERN-STACK-COURSE-ASSIGNMENT-/Task9.html 
 
-![image](https://github.com/user-attachments/assets/50144c8f-7cec-4e22-b00c-95a6a06c0686)
+![Screenshot 2025-06-02 180306](https://github.com/user-attachments/assets/dbd8bda5-42d1-4663-847e-ec00d3edb59d)
 
 TASK 10- https://codesoumya7.github.io/DATE-24.05.25-ETHNUS-MERN-STACK-COURSE-ASSIGNMENT-/Task10.html 
 
-![image](https://github.com/user-attachments/assets/c04610f2-839b-4bb9-9d99-782a8b5da096)
+![Screenshot 2025-06-02 180322](https://github.com/user-attachments/assets/4751d136-0825-4ab0-ae63-98f2f811202a)
 
 TASK 11- https://codesoumya7.github.io/DATE-24.05.25-ETHNUS-MERN-STACK-COURSE-ASSIGNMENT-/Task11.html 
 
-![image](https://github.com/user-attachments/assets/70ee5f31-3e3f-481d-b309-06f8829d98dd)
+![Screenshot 2025-06-02 180342](https://github.com/user-attachments/assets/c84ca7cb-29ba-461d-9b11-5cde24138926)
+
